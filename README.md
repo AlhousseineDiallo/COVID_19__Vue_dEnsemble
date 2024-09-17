@@ -1,4 +1,4 @@
-# Documentation du Projet d'Analyse des Données COVID-19
+# Documentation et Reporting du Projet d'Analyse des Données COVID-19
 
 ### Structure du Répertoire
 Le projet est structuré comme suit :
