@@ -103,7 +103,3 @@ Ce projet analyse les données relatives aux décès et aux cas de COVID-19 pour
 Pour explorer le tableau de bord interactif, veuillez visiter le lien suivant :  
 [Tableau de Bord Covid 19 Vue d'ensemble sur Tableau Public](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/GlobalImpactofCOVID-19DeathsAnalytics/Dashboard2)
 
-
----
-
-Ce fichier `README.md` combine la documentation du projet avec le reporting et les recommandations, ainsi qu'une section dédiée aux captures d'écran du tableau de bord pour une présentation visuelle des analyses effectuées. Assure-toi d'ajuster le chemin d'accès à la capture d'écran du tableau de bord selon l'emplacement réel de ton fichier.
