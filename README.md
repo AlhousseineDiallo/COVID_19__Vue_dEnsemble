@@ -1,3 +1,6 @@
+![$](https://github.com/user-attachments/assets/5a646574-a77d-4f67-9dd1-1983460d9aa2)
+
+
 # Documentation et Reporting du Projet d'Analyse des Données COVID-19 :  Vue d'ensemble
 
 ### Structure du Répertoire
