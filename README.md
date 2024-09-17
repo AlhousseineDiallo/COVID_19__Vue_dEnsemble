@@ -18,6 +18,9 @@ Le projet est structuré comme suit :
 
 Ce projet analyse les données relatives aux décès et aux cas de COVID-19 pour fournir des insights sur l'évolution de la pandémie, les tendances régionales et les impacts par pays et continent. Les analyses incluent des taux de mortalité, des comparaisons entre pays, et des visualisations des effets des vaccinations.
 
+![Capture d'écran 2024-09-17 115910](https://github.com/user-attachments/assets/1f84dcc2-ca4b-4256-b164-549353083d39)
+
+
 ## 2. Analyse des Données de Décès
 
 - **Cas et Décès Quotidiens par Pays** : Cette analyse présente le nombre de nouveaux cas et décès par pays, classés par pays et date, pour suivre l'évolution quotidienne de la pandémie.
